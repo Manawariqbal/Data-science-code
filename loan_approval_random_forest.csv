@@ -1,0 +1,609 @@
+customer_id,age,annual_income,employment_years,employment_type,education,marital_status,city_tier,credit_score,existing_loans,loan_amount,loan_term_months,loan_approved
+CUST1000,22,58572.23,4,Salaried,Bachelor,Married,Tier 3,467.0,2,19840.0,24,1
+CUST1001,55,62723.26,3,Salaried,Bachelor,Married,Tier 3,535.0,0,28410.78,48,1
+CUST1002,49,59456.5,4,Salaried,Bachelor,Divorced,Tier 2,609.0,0,18258.54,36,1
+CUST1003,39,68356.38,2,Salaried,High School,Single,Tier 2,633.0,2,19627.73,48,1
+CUST1004,38,97372.82,15,Salaried,Master,Married,Tier 2,645.0,1,72662.25,24,0
+CUST1005,59,18000.0,11,Self-Employed,High School,Single,Tier 1,683.0,1,20195.49,24,0
+CUST1006,22,59789.29,4,Salaried,High School,Married,Tier 1,654.0,0,12273.5,36,1
+CUST1007,51,68883.27,14,Self-Employed,Master,Married,Tier 2,769.0,2,38540.92,12,1
+CUST1008,27,71511.87,9,Salaried,Bachelor,Single,Tier 2,623.0,0,59461.88,24,0
+CUST1009,22,56817.88,4,Self-Employed,High School,Married,Tier 2,607.0,0,52171.67,48,0
+CUST1010,43,,3,Self-Employed,,Married,Tier 3,721.0,0,25723.51,60,0
+CUST1011,64,72215.9,12,Salaried,Bachelor,Single,Tier 1,549.0,0,45989.81,24,1
+CUST1012,53,103001.7,19,Salaried,Master,Divorced,Tier 1,713.0,0,96666.21,60,0
+CUST1013,54,31255.05,17,Business,High School,Married,Tier 1,689.0,0,17568.12,48,1
+CUST1014,52,84004.22,7,Salaried,High School,Single,Tier 1,667.0,0,42056.91,60,1
+CUST1015,55,57772.45,8,Self-Employed,Bachelor,Married,Tier 2,815.0,1,23837.76,48,1
+CUST1016,42,63650.86,19,Salaried,Master,Single,Tier 3,627.0,2,43911.39,48,0
+CUST1017,24,41836.23,0,,High School,Single,Tier 3,850.0,0,16225.95,36,1
+CUST1018,58,57641.96,11,Salaried,Master,Married,Tier 2,661.0,0,9182.42,48,1
+CUST1019,39,93600.98,2,Business,Master,Single,Tier 2,571.0,2,91693.64,60,0
+CUST1020,42,,19,Salaried,High School,Single,Tier 1,686.0,2,36671.28,24,0
+CUST1021,35,103110.86,0,Self-Employed,Master,Married,Tier 2,589.0,1,30187.86,36,1
+CUST1022,26,90903.06,0,Self-Employed,Bachelor,Single,Tier 1,616.0,0,19942.14,12,1
+CUST1023,62,74659.91,7,Salaried,Bachelor,Married,Tier 3,714.0,1,47726.37,60,0
+CUST1024,55,103366.56,4,Salaried,Bachelor,Married,Tier 2,727.0,0,43297.84,36,1
+CUST1025,48,74657.85,10,Salaried,Master,Single,Tier 1,627.0,0,33804.91,48,1
+CUST1026,37,83215.74,6,Salaried,Bachelor,Married,Tier 1,764.0,1,40945.29,60,1
+CUST1027,57,58475.44,7,Self-Employed,Bachelor,Single,Tier 1,778.0,1,43834.87,60,0
+CUST1028,44,66464.01,12,Salaried,Master,Married,Tier 3,802.0,1,63103.69,24,0
+CUST1029,39,49656.68,12,Salaried,Bachelor,Single,Tier 1,725.0,1,32417.57,48,0
+CUST1030,39,86770.85,20,Self-Employed,Master,Divorced,Tier 1,796.0,0,68752.65,60,1
+CUST1031,28,39077.32,10,Self-Employed,Master,Single,Tier 1,520.0,0,41528.43,12,0
+CUST1032,22,82211.71,4,Salaried,High School,Married,Tier 3,653.0,2,96720.14,48,0
+CUST1033,44,60805.68,14,Salaried,High School,Single,Tier 2,606.0,2,45950.92,36,0
+CUST1034,60,90767.44,3,Salaried,Bachelor,Single,Tier 2,690.0,0,93765.65,48,0
+CUST1035,21,81519.12,3,,Master,Married,Tier 2,631.0,1,80778.9,36,0
+CUST1036,59,105054.22,18,Salaried,High School,Married,Tier 1,666.0,0,95185.07,24,0
+CUST1037,57,81077.04,6,Salaried,Bachelor,Divorced,Tier 3,840.0,0,48416.7,24,1
+CUST1038,31,30415.11,3,Salaried,High School,Single,Tier 1,666.0,2,8412.85,24,1
+CUST1039,48,63527.03,7,Self-Employed,Bachelor,Single,Tier 1,715.0,0,15890.71,24,1
+CUST1040,25,39215.84,6,Self-Employed,Bachelor,Single,Tier 2,660.0,1,27546.53,48,1
+CUST1041,54,53597.84,12,Salaried,High School,Single,Tier 1,686.0,1,33518.68,36,1
+CUST1042,51,98247.03,19,Business,Master,Married,Tier 1,681.0,0,47094.21,24,1
+CUST1043,35,79025.74,13,Business,High School,Married,Tier 3,718.0,0,54982.42,48,1
+CUST1044,21,49623.53,2,Salaried,Master,Married,Tier 2,,0,33277.65,48,1
+CUST1045,64,42698.22,6,Self-Employed,High School,Single,Tier 1,820.0,3,41692.8,36,0
+CUST1046,39,65721.21,15,Salaried,Master,Single,Tier 1,706.0,1,32087.88,60,1
+CUST1047,60,38235.68,7,Business,Bachelor,Married,Tier 2,730.0,1,10248.27,36,1
+CUST1048,50,50234.91,12,Salaried,High School,Single,Tier 1,582.0,0,48335.97,60,0
+CUST1049,55,71864.21,15,Salaried,High School,Married,Tier 1,673.0,1,76141.53,12,0
+CUST1050,54,90416.86,7,Salaried,High School,Single,Tier 2,760.0,0,99699.99,48,0
+CUST1051,27,78392.75,9,,Bachelor,Single,Tier 2,754.0,1,93132.31,60,0
+CUST1052,35,18000.0,8,Self-Employed,Master,Married,Tier 3,698.0,2,15271.0,60,0
+CUST1053,40,,2,Salaried,Bachelor,Single,Tier 2,755.0,1,34433.67,36,1
+CUST1054,41,66584.74,8,Salaried,Bachelor,Divorced,Tier 1,722.0,0,29803.38,48,1
+CUST1055,20,74105.59,2,Salaried,Bachelor,Single,Tier 2,782.0,0,27528.44,36,1
+CUST1056,44,100556.61,0,Business,Bachelor,Single,Tier 2,705.0,0,74745.07,48,1
+CUST1057,25,19608.76,7,Self-Employed,Bachelor,Single,Tier 1,650.0,1,26353.81,48,0
+CUST1058,53,51995.72,11,Salaried,Bachelor,Single,Tier 2,709.0,2,27056.88,60,0
+CUST1059,50,77999.94,0,Salaried,Bachelor,Married,Tier 1,431.0,0,61787.59,36,0
+CUST1060,62,30204.92,19,,Master,Single,Tier 3,713.0,1,12368.2,12,1
+CUST1061,53,97470.88,18,Business,Bachelor,Married,Tier 3,370.0,1,28018.48,36,1
+CUST1062,35,73103.85,0,Self-Employed,High School,Married,Tier 2,534.0,0,43448.84,24,1
+CUST1063,64,83624.85,3,Salaried,High School,Single,Tier 3,718.0,0,19906.78,24,1
+CUST1064,37,52439.24,8,Business,Bachelor,Single,Tier 3,721.0,0,50120.73,36,0
+CUST1065,33,82902.8,11,Salaried,Bachelor,Single,Tier 1,581.0,1,39305.43,48,1
+CUST1066,61,88506.37,15,Self-Employed,Master,Married,Tier 2,619.0,1,76810.96,24,0
+CUST1067,35,70123.32,9,Salaried,Bachelor,Married,Tier 2,796.0,2,62462.71,24,0
+CUST1068,21,70156.82,3,Salaried,Bachelor,Single,Tier 1,639.0,2,20764.23,12,0
+CUST1069,40,70947.55,0,Salaried,Bachelor,Married,Tier 2,850.0,2,23359.86,60,1
+CUST1070,56,46006.4,14,Salaried,High School,Married,Tier 1,680.0,3,41945.22,48,0
+CUST1071,27,61754.37,9,Business,Master,Single,Tier 3,715.0,2,29913.35,12,0
+CUST1072,40,61644.5,11,Salaried,High School,Single,Tier 2,817.0,2,56803.53,12,0
+CUST1073,24,73434.67,6,Self-Employed,Bachelor,Divorced,Tier 3,691.0,2,13256.87,36,1
+CUST1074,50,,6,,Master,Single,Tier 2,595.0,2,70629.63,36,1
+CUST1075,40,41712.21,20,Self-Employed,Bachelor,Single,Tier 1,671.0,2,42738.37,36,0
+CUST1076,33,62249.8,0,Business,Master,Single,Tier 3,677.0,3,25577.63,36,0
+CUST1077,28,97592.02,6,Salaried,Bachelor,Married,Tier 1,564.0,1,34580.48,60,1
+CUST1078,45,48641.06,3,Salaried,Master,Married,Tier 1,658.0,1,56608.01,36,0
+CUST1079,50,46910.5,19,Salaried,Bachelor,Single,Tier 2,617.0,1,13621.33,48,1
+CUST1080,63,69450.74,10,Salaried,Bachelor,Married,Tier 2,759.0,2,35134.63,12,1
+CUST1081,38,83576.47,20,Business,High School,Married,Tier 1,683.0,1,40269.52,60,1
+CUST1082,25,65251.37,7,Salaried,High School,Single,Tier 1,656.0,2,34581.14,60,0
+CUST1083,57,94237.13,12,Salaried,Bachelor,Married,Tier 1,671.0,2,88022.43,48,0
+CUST1084,48,83849.47,11,Salaried,High School,Single,Tier 1,699.0,3,78295.57,36,0
+CUST1085,51,83520.04,4,Salaried,Bachelor,Single,Tier 1,732.0,0,51275.77,24,1
+CUST1086,22,77190.56,4,Self-Employed,Master,Divorced,Tier 2,595.0,1,92507.77,48,0
+CUST1087,32,116208.37,14,Salaried,Master,Married,Tier 1,591.0,2,28989.71,48,1
+CUST1088,54,60486.44,21,Self-Employed,High School,Single,Tier 1,774.0,3,4151.75,24,1
+CUST1089,57,20922.51,12,Self-Employed,Master,Married,Tier 2,645.0,2,10177.89,36,1
+CUST1090,38,100293.6,20,Self-Employed,High School,Married,Tier 2,560.0,1,103802.95,36,0
+CUST1091,56,54930.61,20,Salaried,Bachelor,Single,Tier 1,718.0,1,3000.0,60,1
+CUST1092,58,67373.37,11,Self-Employed,,Married,Tier 1,719.0,0,21321.29,48,1
+CUST1093,36,93810.12,9,Salaried,High School,Married,Tier 1,550.0,3,51800.76,48,0
+CUST1094,61,29750.29,3,Salaried,,Single,Tier 3,700.0,0,29699.01,48,0
+CUST1095,31,37463.76,5,Self-Employed,High School,Married,Tier 1,743.0,1,9150.51,36,1
+CUST1096,29,29771.89,11,Self-Employed,Bachelor,Single,Tier 1,712.0,2,19011.52,36,0
+CUST1097,50,47529.0,3,Salaried,Master,Single,Tier 2,734.0,1,44415.83,12,0
+CUST1098,48,74672.01,8,Business,High School,Divorced,Tier 1,561.0,0,41778.53,48,0
+CUST1099,24,76532.13,6,Salaried,High School,Married,Tier 1,708.0,0,22595.41,36,1
+CUST1100,57,71078.03,5,Self-Employed,Bachelor,Married,Tier 1,654.0,2,38710.39,36,0
+CUST1101,27,33919.15,9,Business,High School,Married,Tier 2,639.0,1,19941.97,24,1
+CUST1102,56,18000.0,14,Salaried,Bachelor,Married,Tier 2,754.0,0,3000.0,24,1
+CUST1103,18,66195.78,0,Self-Employed,Master,Single,Tier 2,806.0,1,57108.79,36,1
+CUST1104,56,54620.93,5,Self-Employed,Bachelor,Divorced,Tier 3,833.0,0,29336.02,24,1
+CUST1105,55,75106.49,16,Self-Employed,Master,Married,Tier 1,792.0,2,60648.3,12,0
+CUST1106,55,80442.98,18,Self-Employed,Bachelor,Married,Tier 3,671.0,0,86334.51,48,0
+CUST1107,49,68041.31,20,Self-Employed,Master,Married,Tier 2,710.0,0,33548.47,36,1
+CUST1108,40,81722.93,18,Salaried,High School,Single,Tier 3,,0,57650.06,36,1
+CUST1109,51,,1,Self-Employed,High School,Single,Tier 2,690.0,1,75789.26,36,0
+CUST1110,31,76661.42,13,Salaried,,Single,Tier 2,691.0,1,34488.62,48,1
+CUST1111,55,49497.19,2,Business,High School,Single,Tier 1,750.0,2,35224.68,36,0
+CUST1112,44,61048.55,1,Salaried,Master,Married,Tier 2,675.0,1,45925.58,48,0
+CUST1113,40,69329.07,15,Salaried,Bachelor,Married,Tier 1,618.0,0,17097.57,60,1
+CUST1114,42,83051.63,10,Business,Master,Single,Tier 2,645.0,0,50611.8,48,1
+CUST1115,45,56337.69,14,Salaried,High School,Single,Tier 1,734.0,0,6190.74,36,1
+CUST1116,19,76465.68,1,Salaried,Bachelor,Married,Tier 1,680.0,2,23673.81,48,1
+CUST1117,24,59151.55,1,Self-Employed,Bachelor,Single,Tier 3,709.0,0,35035.58,36,0
+CUST1118,29,62414.07,11,Salaried,High School,Divorced,Tier 2,737.0,3,25017.33,36,0
+CUST1119,23,83249.42,5,Salaried,Bachelor,Single,Tier 2,648.0,0,69751.67,36,0
+CUST1120,39,21152.67,9,Salaried,Bachelor,Single,Tier 1,744.0,0,17634.51,36,1
+CUST1121,50,36477.61,11,Salaried,Master,Single,Tier 2,712.0,0,32050.89,24,1
+CUST1122,49,32391.92,10,Salaried,Bachelor,Divorced,Tier 3,575.0,0,13680.78,36,1
+CUST1123,40,18000.0,19,Salaried,High School,Single,Tier 2,803.0,2,11621.24,24,0
+CUST1124,59,50078.18,1,Salaried,Bachelor,Married,Tier 2,637.0,1,27196.24,36,1
+CUST1125,45,81487.55,19,Salaried,Bachelor,Single,Tier 2,539.0,0,20616.42,36,1
+CUST1126,21,58732.55,3,Salaried,High School,Single,Tier 1,591.0,1,58276.89,60,0
+CUST1127,54,69351.38,17,Self-Employed,Bachelor,Married,Tier 2,593.0,1,39954.74,12,1
+CUST1128,45,88962.78,9,Self-Employed,High School,Single,Tier 3,684.0,3,36609.88,48,0
+CUST1129,48,94209.09,11,Salaried,High School,Single,Tier 2,657.0,3,86867.87,36,0
+CUST1130,45,63478.97,8,Salaried,Bachelor,Married,Tier 2,651.0,1,39128.08,12,0
+CUST1131,44,94778.89,5,Business,High School,Married,Tier 2,733.0,2,24235.85,24,1
+CUST1132,22,67026.79,4,Self-Employed,Bachelor,Single,Tier 2,709.0,2,29407.53,24,1
+CUST1133,44,46577.24,11,Salaried,High School,Single,Tier 3,707.0,1,47720.62,24,0
+CUST1134,56,51923.19,15,Salaried,Bachelor,Divorced,Tier 2,715.0,1,40341.96,36,0
+CUST1135,32,32428.2,2,Salaried,High School,Married,Tier 2,732.0,0,11459.73,36,1
+CUST1136,46,45461.06,17,Self-Employed,Master,Married,Tier 2,501.0,2,46518.59,36,0
+CUST1137,19,57123.63,1,Business,High School,Married,Tier 2,649.0,3,54063.47,12,0
+CUST1138,34,82678.87,16,Business,Bachelor,Married,Tier 1,495.0,0,74492.99,24,0
+CUST1139,38,102856.94,2,Salaried,Bachelor,Single,Tier 2,683.0,2,27275.31,24,1
+CUST1140,65,34592.01,11,Salaried,High School,Single,Tier 3,680.0,3,7498.29,36,0
+CUST1141,28,73642.2,10,Salaried,Bachelor,Married,Tier 2,769.0,0,66352.87,36,0
+CUST1142,31,42108.03,11,Salaried,Master,Married,Tier 1,781.0,1,19150.97,36,1
+CUST1143,37,75443.34,1,Salaried,Master,Divorced,Tier 2,697.0,2,50116.66,24,0
+CUST1144,65,62116.09,10,Self-Employed,High School,Married,Tier 2,637.0,3,46465.67,12,0
+CUST1145,58,24720.07,6,Salaried,High School,Single,Tier 1,721.0,0,8360.95,60,1
+CUST1146,19,85422.53,1,Business,Bachelor,Married,Tier 2,635.0,0,77235.96,24,0
+CUST1147,29,51689.98,5,Salaried,Bachelor,Married,Tier 2,680.0,1,57894.53,24,0
+CUST1148,57,53254.19,9,Salaried,High School,Married,Tier 3,764.0,0,60138.75,24,0
+CUST1149,20,41465.45,2,Business,Bachelor,Married,Tier 1,633.0,0,25541.57,60,1
+CUST1150,59,50605.77,1,Self-Employed,Bachelor,Married,Tier 1,748.0,0,53133.16,48,0
+CUST1151,31,74413.59,13,Salaried,Bachelor,Single,Tier 2,738.0,0,40906.62,48,1
+CUST1152,62,60836.62,15,Self-Employed,Bachelor,Married,Tier 1,599.0,1,43161.02,60,0
+CUST1153,32,72230.56,1,Salaried,Bachelor,Married,Tier 2,763.0,1,78216.72,24,0
+CUST1154,38,72962.28,1,Salaried,High School,Married,Tier 3,739.0,1,56420.75,60,0
+CUST1155,49,94054.56,18,Salaried,Bachelor,Single,Tier 1,689.0,2,32520.93,24,1
+CUST1156,24,57458.7,6,Salaried,High School,Married,Tier 2,615.0,1,14777.71,48,1
+CUST1157,44,32509.13,18,Self-Employed,Bachelor,Married,Tier 3,607.0,0,11605.79,36,1
+CUST1158,42,88478.89,10,Salaried,Bachelor,Married,Tier 2,634.0,0,49223.42,36,1
+CUST1159,55,57707.26,7,Self-Employed,Bachelor,Single,Tier 2,726.0,0,34221.52,60,1
+CUST1160,65,89521.03,6,,High School,Married,Tier 2,599.0,0,71584.76,24,0
+CUST1161,49,73434.3,14,Salaried,High School,Married,Tier 1,717.0,0,32936.51,60,1
+CUST1162,37,62114.97,2,Salaried,Bachelor,Married,Tier 1,574.0,0,45995.39,36,1
+CUST1163,37,72673.07,8,Salaried,Bachelor,Married,Tier 2,663.0,0,80542.72,48,0
+CUST1164,38,107922.28,7,Self-Employed,Master,Single,Tier 2,689.0,1,44930.19,60,1
+CUST1165,57,110693.57,3,Self-Employed,Bachelor,Married,Tier 1,850.0,1,89712.37,12,0
+CUST1166,33,66526.38,7,Self-Employed,Master,Married,Tier 1,563.0,3,41751.65,60,0
+CUST1167,26,68524.19,8,Salaried,High School,Married,Tier 3,805.0,2,39118.4,36,0
+CUST1168,34,88677.28,14,Salaried,Bachelor,Single,Tier 1,693.0,1,28801.09,48,1
+CUST1169,19,46395.46,1,Salaried,High School,Married,Tier 2,715.0,0,50169.43,24,0
+CUST1170,23,72327.55,5,Salaried,Bachelor,Single,Tier 2,690.0,1,69598.82,36,0
+CUST1171,22,64431.02,4,Self-Employed,High School,Married,Tier 2,718.0,0,53256.23,48,0
+CUST1172,55,71905.98,15,Salaried,High School,Married,Tier 1,667.0,1,78211.55,36,0
+CUST1173,52,46665.89,20,Salaried,Bachelor,Single,Tier 1,804.0,1,33962.5,24,0
+CUST1174,51,30029.52,9,Salaried,Bachelor,Married,Tier 2,641.0,1,21784.25,24,1
+CUST1175,40,19394.36,18,Salaried,High School,Married,Tier 2,776.0,0,6391.04,60,1
+CUST1176,52,40417.55,15,Self-Employed,High School,Married,Tier 1,625.0,1,26584.04,12,0
+CUST1177,25,54909.14,7,Salaried,Bachelor,Single,Tier 2,675.0,2,61429.35,48,0
+CUST1178,61,58549.79,3,,High School,Married,Tier 2,589.0,2,21592.38,60,1
+CUST1179,42,107619.09,12,Business,High School,Single,Tier 1,719.0,1,62159.77,12,1
+CUST1180,63,89331.85,19,Business,Bachelor,Married,Tier 2,803.0,1,71061.59,24,0
+CUST1181,25,43834.0,7,Self-Employed,High School,Married,Tier 1,673.0,0,12910.19,48,1
+CUST1182,41,72649.59,9,Self-Employed,Bachelor,Single,Tier 2,663.0,1,66236.06,12,0
+CUST1183,51,,5,Self-Employed,Bachelor,Married,Tier 1,,1,27421.95,36,1
+CUST1184,41,58744.0,16,Salaried,High School,Married,Tier 2,661.0,0,66844.34,48,0
+CUST1185,39,69077.16,1,Salaried,High School,Married,Tier 1,545.0,0,73867.29,36,0
+CUST1186,25,78621.76,3,Self-Employed,High School,Single,Tier 2,602.0,3,38558.25,36,0
+CUST1187,36,57536.31,12,Salaried,High School,Single,Tier 2,699.0,1,49228.89,48,0
+CUST1188,29,88404.73,11,Salaried,High School,Married,Tier 3,792.0,1,28627.08,36,1
+CUST1189,32,39877.36,7,Business,Master,Single,Tier 2,850.0,1,25764.38,24,1
+CUST1190,50,65139.46,9,Salaried,Master,Married,Tier 3,630.0,1,53433.92,36,0
+CUST1191,48,122148.82,7,Salaried,Bachelor,Single,Tier 1,802.0,1,106956.59,60,0
+CUST1192,47,69907.75,9,Self-Employed,Bachelor,Single,Tier 2,701.0,0,16528.92,48,1
+CUST1193,35,96530.72,0,Salaried,Bachelor,Married,Tier 1,667.0,1,41027.76,36,1
+CUST1194,64,67013.44,13,Business,Master,Single,Tier 2,717.0,1,56262.75,36,0
+CUST1195,22,77777.1,4,,High School,Married,Tier 2,685.0,0,31857.85,24,1
+CUST1196,34,63750.77,6,Business,High School,Single,Tier 3,689.0,2,30631.44,24,0
+CUST1197,23,61251.03,5,Self-Employed,High School,Married,Tier 2,645.0,0,25603.56,12,1
+CUST1198,34,47851.39,16,Salaried,High School,Single,Tier 2,561.0,1,19184.15,60,1
+CUST1199,64,74466.63,4,Salaried,High School,Married,Tier 1,549.0,1,58481.04,24,1
+CUST1200,35,46266.18,1,Salaried,Master,Married,Tier 1,736.0,1,16944.49,48,0
+CUST1201,61,79642.88,0,Salaried,Master,Single,Tier 3,656.0,1,42034.58,24,1
+CUST1202,41,88876.31,19,Salaried,High School,Married,Tier 1,629.0,3,100867.26,36,0
+CUST1203,51,73063.69,8,Business,Bachelor,Single,Tier 1,681.0,1,16429.92,36,1
+CUST1204,39,58702.53,2,Salaried,Bachelor,Married,Tier 3,748.0,2,53824.43,36,0
+CUST1205,30,74987.24,12,Business,Bachelor,Single,Tier 3,695.0,1,32140.93,48,0
+CUST1206,54,58209.19,3,Salaried,Bachelor,Married,Tier 2,624.0,0,61536.17,60,0
+CUST1207,64,85582.04,7,Business,High School,Single,Tier 2,784.0,0,89436.83,60,0
+CUST1208,30,24709.07,0,Salaried,Master,Married,Tier 3,814.0,1,31294.1,24,0
+CUST1209,55,57616.64,14,Salaried,Master,Married,Tier 1,722.0,0,9398.94,48,1
+CUST1210,30,21202.14,12,Salaried,Bachelor,Married,Tier 2,763.0,1,17008.27,24,0
+CUST1211,52,32108.66,16,Salaried,Bachelor,Single,Tier 2,786.0,1,36576.91,60,0
+CUST1212,55,95004.97,5,Self-Employed,Bachelor,Single,Tier 3,776.0,1,44845.21,36,1
+CUST1213,39,84694.07,7,Salaried,Bachelor,Single,Tier 3,732.0,0,28283.58,36,1
+CUST1214,53,49171.43,20,Salaried,High School,Married,Tier 2,731.0,2,16800.08,24,0
+CUST1215,31,31944.92,13,,Bachelor,Married,Tier 1,724.0,1,40374.65,12,0
+CUST1216,21,18000.0,0,Self-Employed,,Single,Tier 2,587.0,1,32848.91,24,0
+CUST1217,22,53043.1,4,Salaried,Master,Married,Tier 1,740.0,0,34732.94,60,1
+CUST1218,39,118249.13,17,Salaried,Bachelor,Single,Tier 3,565.0,1,97763.46,48,0
+CUST1219,61,74567.45,12,Salaried,Bachelor,Single,Tier 1,612.0,0,46701.26,60,1
+CUST1220,24,52689.41,6,Salaried,Bachelor,Married,Tier 1,791.0,1,28304.71,24,1
+CUST1221,39,75231.76,0,Salaried,Master,Single,Tier 2,751.0,0,37182.77,36,1
+CUST1222,51,30658.92,0,Business,High School,Single,Tier 2,806.0,3,3913.52,24,1
+CUST1223,27,58458.89,0,Salaried,,Married,Tier 3,657.0,0,16918.37,36,1
+CUST1224,52,67188.5,3,Self-Employed,High School,Single,Tier 1,582.0,1,69347.75,36,0
+CUST1225,32,63105.79,14,Salaried,Bachelor,Married,Tier 3,660.0,0,54678.27,36,0
+CUST1226,56,82397.73,13,Salaried,Master,Married,Tier 1,,1,53270.42,36,1
+CUST1227,45,72582.19,17,Salaried,High School,Married,Tier 1,687.0,1,50877.86,24,0
+CUST1228,44,79703.17,6,Salaried,Master,Married,Tier 2,776.0,1,31670.99,36,1
+CUST1229,26,49855.81,8,Salaried,High School,Married,Tier 1,649.0,0,55361.57,48,0
+CUST1230,40,84751.94,4,Salaried,Bachelor,Single,Tier 2,710.0,0,91193.45,24,0
+CUST1231,59,100836.61,19,Salaried,High School,Married,Tier 1,596.0,0,105393.15,60,0
+CUST1232,18,43656.71,0,Business,Bachelor,Married,Tier 1,718.0,3,29906.09,36,0
+CUST1233,54,45470.7,0,Salaried,Bachelor,Married,Tier 2,680.0,1,14518.32,48,1
+CUST1234,41,94387.26,1,Salaried,Bachelor,Single,Tier 1,616.0,0,36620.1,48,1
+CUST1235,52,60790.43,17,Salaried,High School,Married,Tier 2,660.0,3,16880.56,48,0
+CUST1236,49,95884.07,5,Salaried,Master,Married,Tier 2,664.0,0,23305.47,48,1
+CUST1237,38,55264.21,9,Self-Employed,Master,Single,Tier 1,657.0,1,14868.07,60,1
+CUST1238,32,97011.0,10,Salaried,Bachelor,Married,Tier 3,831.0,1,121414.9,48,0
+CUST1239,48,67892.69,17,Self-Employed,Bachelor,Single,Tier 1,672.0,2,13067.7,36,1
+CUST1240,24,70681.03,6,Salaried,Bachelor,Single,Tier 2,659.0,1,22438.21,24,1
+CUST1241,46,99423.8,0,Salaried,High School,Married,Tier 1,502.0,1,101854.38,48,0
+CUST1242,22,57041.05,4,Business,Master,Married,Tier 3,604.0,3,47980.57,12,0
+CUST1243,49,44295.31,6,Salaried,High School,Single,Tier 2,658.0,0,39314.21,24,0
+CUST1244,48,55131.59,16,Self-Employed,Bachelor,Single,Tier 2,622.0,3,24630.04,12,1
+CUST1245,22,74951.35,4,Salaried,High School,Single,Tier 3,797.0,2,77673.82,36,0
+CUST1246,54,30553.3,2,Business,High School,Married,Tier 1,666.0,2,7578.6,24,0
+CUST1247,37,79024.36,17,Salaried,Bachelor,Married,Tier 3,790.0,0,61340.79,48,0
+CUST1248,55,53147.03,1,Salaried,Bachelor,Married,Tier 2,685.0,0,45144.88,48,1
+CUST1249,19,90251.88,1,Self-Employed,Master,Single,Tier 3,683.0,1,58894.63,60,1
+CUST1250,26,18000.0,8,Salaried,Master,Married,Tier 3,672.0,1,3000.0,36,1
+CUST1251,41,47695.55,6,Salaried,High School,Married,Tier 3,680.0,1,17476.48,36,1
+CUST1252,27,27897.7,9,Business,High School,Married,Tier 1,826.0,2,10507.84,36,0
+CUST1253,33,46822.95,6,Salaried,Bachelor,Single,Tier 3,483.0,1,42221.17,36,0
+CUST1254,49,70448.65,17,Self-Employed,Bachelor,Single,Tier 3,510.0,0,24574.43,48,1
+CUST1255,24,61057.01,6,Self-Employed,Bachelor,Married,Tier 2,634.0,1,18656.65,24,1
+CUST1256,50,59425.69,17,Self-Employed,Master,Married,Tier 1,681.0,0,42193.58,60,0
+CUST1257,22,61497.93,4,Business,Bachelor,Single,Tier 3,739.0,0,64262.66,24,0
+CUST1258,26,69474.54,8,Salaried,High School,Married,Tier 1,720.0,0,39561.23,60,1
+CUST1259,46,42812.21,9,Salaried,Bachelor,Single,Tier 2,647.0,2,40232.13,36,0
+CUST1260,56,80550.69,17,Salaried,Bachelor,Single,Tier 2,767.0,1,87974.01,24,0
+CUST1261,26,79578.65,8,Self-Employed,Bachelor,Married,Tier 1,768.0,1,16483.77,48,1
+CUST1262,32,73470.83,10,Self-Employed,High School,Married,Tier 2,696.0,1,50033.93,24,0
+CUST1263,62,77243.74,9,Salaried,Bachelor,Single,Tier 1,762.0,1,32843.43,48,1
+CUST1264,65,71521.2,8,Salaried,Bachelor,Married,Tier 2,703.0,2,31128.77,36,1
+CUST1265,45,109771.61,12,Salaried,High School,Married,Tier 3,632.0,2,81517.87,24,0
+CUST1266,39,63083.93,15,Salaried,Bachelor,Single,Tier 1,739.0,1,62751.9,12,0
+CUST1267,34,58244.17,9,,Bachelor,Married,Tier 2,689.0,2,20218.23,48,0
+CUST1268,47,48422.39,17,Salaried,Bachelor,Married,Tier 1,680.0,1,43944.64,36,0
+CUST1269,46,42290.22,18,Self-Employed,Bachelor,Married,Tier 3,805.0,1,23234.02,60,0
+CUST1270,32,37621.62,9,Self-Employed,Master,Divorced,Tier 3,472.0,2,30014.49,48,0
+CUST1271,19,45446.46,1,Business,High School,Married,Tier 1,559.0,1,38016.53,48,0
+CUST1272,25,63445.03,3,Salaried,High School,Single,Tier 2,579.0,1,46042.62,36,0
+CUST1273,64,,20,Business,High School,Single,Tier 2,649.0,0,55096.63,48,0
+CUST1274,38,66125.13,6,Self-Employed,Bachelor,Married,Tier 2,658.0,1,10108.04,60,1
+CUST1275,41,48158.22,12,Self-Employed,High School,Divorced,Tier 2,,1,23648.33,24,1
+CUST1276,40,84804.06,6,Salaried,Bachelor,Single,Tier 2,596.0,1,68131.67,36,0
+CUST1277,55,81267.08,9,Salaried,High School,Single,Tier 2,607.0,1,67156.34,24,0
+CUST1278,21,61487.74,3,Self-Employed,High School,Married,Tier 1,850.0,0,22014.72,36,1
+CUST1279,21,50635.84,3,Salaried,Bachelor,Single,Tier 2,833.0,2,40089.49,48,0
+CUST1280,31,77065.41,1,Salaried,Bachelor,Single,Tier 3,645.0,0,52496.14,36,1
+CUST1281,41,69135.42,18,Salaried,Master,Married,Tier 1,649.0,2,9079.24,36,1
+CUST1282,50,33141.2,19,Salaried,Bachelor,Married,Tier 2,582.0,0,9506.39,36,1
+CUST1283,41,63504.43,12,Salaried,Bachelor,Married,Tier 1,518.0,1,39490.93,24,1
+CUST1284,39,70764.79,12,Salaried,Bachelor,Married,Tier 3,670.0,1,78281.08,36,0
+CUST1285,63,45206.71,15,Salaried,Bachelor,Single,Tier 2,595.0,2,27322.66,60,0
+CUST1286,25,69176.55,4,Business,High School,Married,Tier 2,673.0,0,72741.54,48,0
+CUST1287,45,32993.91,16,Business,Bachelor,Single,Tier 1,544.0,2,19342.19,36,0
+CUST1288,44,94396.09,4,Salaried,Bachelor,Single,Tier 2,615.0,1,76168.81,48,0
+CUST1289,40,92454.9,14,Salaried,High School,Married,Tier 3,693.0,1,60896.2,12,0
+CUST1290,56,59444.62,6,Salaried,Bachelor,Married,Tier 2,711.0,1,29402.75,24,1
+CUST1291,30,72996.0,12,Salaried,Bachelor,Married,Tier 2,715.0,0,52255.53,24,1
+CUST1292,63,,17,Business,Bachelor,Single,Tier 2,568.0,1,17764.85,60,0
+CUST1293,33,39560.35,4,Salaried,High School,Divorced,Tier 2,753.0,0,35567.9,48,0
+CUST1294,44,58536.86,13,Salaried,Bachelor,Married,Tier 2,612.0,0,35696.31,48,0
+CUST1295,42,41413.07,10,Salaried,Master,Married,Tier 1,734.0,1,12821.23,12,1
+CUST1296,58,80716.72,6,Salaried,High School,Married,Tier 1,679.0,1,72191.94,24,0
+CUST1297,39,108940.52,12,Business,Bachelor,Single,Tier 2,563.0,0,18883.97,48,1
+CUST1298,31,39114.48,13,Self-Employed,High School,Married,Tier 3,653.0,0,25327.89,36,1
+CUST1299,19,46575.81,0,Salaried,High School,Married,Tier 3,711.0,0,27688.43,60,1
+CUST1300,35,70179.86,17,Salaried,Master,Married,Tier 3,732.0,0,70060.59,48,1
+CUST1301,57,100444.56,18,Business,Bachelor,Married,Tier 2,668.0,1,67690.61,36,0
+CUST1302,18,38107.77,0,Salaried,,Married,Tier 1,810.0,0,11940.43,48,1
+CUST1303,61,70478.79,13,Business,High School,Single,Tier 2,766.0,2,71376.68,60,0
+CUST1304,44,105068.57,8,Business,Master,Single,Tier 3,658.0,0,65522.91,36,1
+CUST1305,24,28661.3,2,Salaried,High School,Divorced,Tier 2,744.0,0,4925.76,48,1
+CUST1306,32,36816.48,12,Business,Bachelor,Divorced,Tier 2,844.0,2,3000.0,60,1
+CUST1307,44,55680.65,17,Salaried,High School,Divorced,Tier 2,847.0,0,18067.08,24,1
+CUST1308,33,53547.05,5,Self-Employed,High School,Single,Tier 3,576.0,1,15922.62,60,1
+CUST1309,23,82877.23,5,Salaried,Bachelor,Single,Tier 3,601.0,3,46125.15,24,0
+CUST1310,49,70316.51,16,Salaried,High School,Married,Tier 3,806.0,3,48207.49,48,0
+CUST1311,50,25950.83,16,Salaried,Bachelor,Married,Tier 2,590.0,1,26916.78,48,0
+CUST1312,23,76339.03,5,Salaried,High School,Single,Tier 1,568.0,0,3000.0,48,1
+CUST1313,31,52294.14,8,Salaried,Bachelor,Married,Tier 2,639.0,1,38322.15,36,0
+CUST1314,29,93037.84,9,Salaried,Bachelor,Single,Tier 1,716.0,3,21379.89,48,1
+CUST1315,49,51193.07,18,Self-Employed,Bachelor,Married,Tier 3,671.0,3,45327.84,24,0
+CUST1316,53,50994.46,19,Salaried,High School,Single,Tier 2,625.0,0,12663.75,24,1
+CUST1317,52,76904.9,9,Salaried,Bachelor,Single,Tier 2,623.0,1,56034.69,36,0
+CUST1318,63,81784.38,21,Business,Master,Single,Tier 1,619.0,0,33105.34,36,1
+CUST1319,54,74858.19,12,Business,High School,Married,Tier 2,605.0,0,60974.46,36,1
+CUST1320,33,27916.86,8,Salaried,High School,Married,Tier 2,850.0,1,11998.56,24,1
+CUST1321,23,76836.76,0,Salaried,Master,Divorced,Tier 1,705.0,0,73836.93,60,0
+CUST1322,47,42245.22,13,Self-Employed,High School,Married,Tier 3,755.0,0,17562.83,36,1
+CUST1323,61,70176.07,14,Self-Employed,Bachelor,Single,Tier 2,638.0,0,66030.18,36,0
+CUST1324,64,33677.84,21,Salaried,Bachelor,Single,Tier 2,664.0,1,14993.78,36,1
+CUST1325,29,74819.09,11,Self-Employed,High School,Married,Tier 1,619.0,0,53432.08,24,0
+CUST1326,29,47254.82,0,Salaried,Bachelor,Single,Tier 2,455.0,1,47269.51,48,0
+CUST1327,19,36782.04,1,Salaried,Bachelor,Married,Tier 2,563.0,0,37937.2,36,0
+CUST1328,24,80704.04,6,Self-Employed,High School,Married,Tier 3,526.0,3,12669.89,12,1
+CUST1329,44,70316.18,10,Self-Employed,Master,Married,Tier 1,489.0,0,25961.94,60,1
+CUST1330,44,51492.51,9,Business,High School,Single,Tier 3,578.0,1,13667.3,48,1
+CUST1331,35,96925.93,17,Salaried,Bachelor,Married,Tier 2,793.0,0,49773.73,48,1
+CUST1332,32,55305.65,13,Salaried,Master,Single,Tier 1,676.0,0,26978.26,60,1
+CUST1333,57,65706.37,14,Salaried,High School,Single,Tier 1,790.0,0,61783.22,60,1
+CUST1334,40,70916.1,10,Salaried,Master,Married,Tier 1,715.0,0,85122.52,36,0
+CUST1335,56,51367.35,6,Salaried,High School,Married,Tier 3,747.0,0,42908.44,48,1
+CUST1336,64,75365.0,11,Salaried,Bachelor,Married,Tier 1,603.0,1,51842.14,48,0
+CUST1337,33,53264.05,15,Salaried,High School,Single,Tier 2,725.0,1,47080.24,36,0
+CUST1338,27,55943.96,9,Self-Employed,Bachelor,Divorced,Tier 2,742.0,0,62287.63,24,0
+CUST1339,63,94978.14,15,Salaried,Bachelor,Divorced,Tier 3,631.0,1,16351.21,24,1
+CUST1340,48,42107.11,2,Salaried,Master,Married,Tier 2,728.0,1,14430.31,48,1
+CUST1341,31,18000.0,13,Self-Employed,Master,Married,Tier 3,728.0,0,14976.38,48,0
+CUST1342,47,100440.61,5,Salaried,Bachelor,Single,Tier 1,633.0,1,54846.44,48,1
+CUST1343,42,121085.21,21,Business,Bachelor,Married,Tier 3,585.0,0,65704.33,36,1
+CUST1344,61,56084.08,9,Salaried,Bachelor,Married,Tier 1,579.0,0,61632.94,24,0
+CUST1345,30,22389.56,12,Salaried,Master,Married,Tier 1,687.0,1,32246.99,36,0
+CUST1346,65,58169.35,19,Business,Bachelor,Married,Tier 3,,3,73545.86,36,0
+CUST1347,62,58703.1,16,Salaried,Master,Married,Tier 1,613.0,3,49295.34,60,0
+CUST1348,26,60821.68,8,Self-Employed,High School,Married,Tier 1,682.0,3,24555.91,60,0
+CUST1349,25,40505.46,7,Self-Employed,Bachelor,Married,Tier 2,728.0,1,31176.58,60,0
+CUST1350,43,,18,Salaried,Bachelor,Single,Tier 1,733.0,0,41431.02,60,1
+CUST1351,20,76539.16,2,Self-Employed,High School,Single,Tier 1,812.0,0,59449.3,60,0
+CUST1352,32,32123.08,1,Business,High School,Married,Tier 2,789.0,0,13116.64,36,1
+CUST1353,38,80382.33,11,Business,Master,Married,Tier 3,595.0,0,61392.84,12,1
+CUST1354,64,110159.07,17,Salaried,Bachelor,Married,Tier 3,823.0,0,57556.99,24,1
+CUST1355,65,68783.13,16,Salaried,High School,Married,Tier 1,635.0,1,52565.4,36,1
+CUST1356,25,57578.85,7,Self-Employed,Bachelor,Married,Tier 2,769.0,0,20000.26,24,1
+CUST1357,60,61875.93,11,Salaried,Bachelor,Single,Tier 3,686.0,0,30654.19,24,1
+CUST1358,22,78535.65,4,Salaried,Bachelor,Single,Tier 1,645.0,1,28241.31,60,1
+CUST1359,53,26925.22,19,Salaried,Master,Married,Tier 1,526.0,1,7957.69,24,1
+CUST1360,58,68616.6,18,Salaried,Master,Married,Tier 1,665.0,2,66225.14,60,0
+CUST1361,60,56409.79,2,Salaried,Bachelor,Married,Tier 2,547.0,0,36375.65,48,1
+CUST1362,28,105652.15,10,Salaried,Bachelor,Married,Tier 1,762.0,1,31917.48,48,1
+CUST1363,60,61168.2,8,Salaried,Bachelor,Married,Tier 2,809.0,0,58478.23,48,0
+CUST1364,23,101693.53,5,Salaried,Master,Married,Tier 3,612.0,1,74508.91,36,0
+CUST1365,42,40717.7,11,Business,,Married,Tier 1,706.0,0,25151.39,48,1
+CUST1366,40,77919.7,21,Salaried,High School,Single,Tier 2,618.0,0,32473.48,24,1
+CUST1367,33,72026.81,9,Salaried,Master,Married,Tier 1,627.0,1,19708.85,60,1
+CUST1368,19,45880.96,1,Salaried,Master,Married,Tier 1,746.0,0,40852.38,36,0
+CUST1369,55,68902.71,2,Salaried,High School,Single,Tier 3,677.0,0,34072.0,24,1
+CUST1370,34,91675.41,16,Business,Bachelor,Married,Tier 2,828.0,2,15662.02,48,1
+CUST1371,49,57876.58,3,Business,Bachelor,Married,Tier 3,639.0,0,8879.83,48,1
+CUST1372,37,27776.82,8,Salaried,Bachelor,Married,Tier 2,765.0,1,23305.05,36,0
+CUST1373,35,64613.62,17,Salaried,High School,Married,Tier 1,688.0,1,5232.4,48,1
+CUST1374,60,45146.69,21,Salaried,High School,Single,Tier 2,748.0,0,40302.41,24,1
+CUST1375,22,57468.5,4,Salaried,Bachelor,Single,Tier 1,642.0,1,17731.34,48,1
+CUST1376,53,63205.07,10,Salaried,Bachelor,Single,Tier 3,676.0,0,52873.49,36,0
+CUST1377,53,27475.65,1,Salaried,Bachelor,Single,Tier 2,670.0,1,11496.35,36,0
+CUST1378,36,29455.52,18,Salaried,High School,Married,Tier 1,609.0,0,3913.84,24,1
+CUST1379,30,75605.47,0,Salaried,Master,Married,Tier 2,736.0,0,3081.48,36,1
+CUST1380,18,53500.19,0,Salaried,Bachelor,Married,Tier 2,735.0,0,40009.16,36,1
+CUST1381,62,18000.0,10,Salaried,Master,Single,Tier 3,730.0,2,8779.02,36,0
+CUST1382,63,82266.57,0,Salaried,High School,Single,Tier 1,811.0,2,12118.7,24,1
+CUST1383,29,70992.13,3,Salaried,Bachelor,Single,Tier 1,803.0,3,14372.18,24,0
+CUST1384,19,49294.75,1,Salaried,Master,Married,Tier 1,648.0,1,44804.78,36,0
+CUST1385,23,36029.74,5,Salaried,Bachelor,Single,Tier 2,712.0,1,18794.06,24,1
+CUST1386,21,83387.77,3,Salaried,High School,Married,Tier 2,627.0,1,21310.5,48,1
+CUST1387,57,72685.71,17,Salaried,High School,Married,Tier 1,682.0,2,34163.36,60,1
+CUST1388,60,117417.25,13,Self-Employed,High School,Married,Tier 2,,1,95865.3,36,0
+CUST1389,25,74244.15,5,Business,Bachelor,Single,Tier 2,818.0,1,62372.27,60,0
+CUST1390,53,73529.47,15,Salaried,Bachelor,Single,Tier 1,711.0,1,49673.99,24,1
+CUST1391,26,61327.59,8,,High School,Married,Tier 3,661.0,1,61698.08,12,0
+CUST1392,35,82969.07,17,Self-Employed,Bachelor,Married,Tier 2,781.0,0,53681.98,48,1
+CUST1393,46,78751.87,3,Self-Employed,High School,Single,Tier 2,495.0,1,38366.59,48,1
+CUST1394,52,92537.95,5,Salaried,Bachelor,Married,Tier 2,509.0,0,49481.42,60,1
+CUST1395,59,53530.9,6,Salaried,Bachelor,Married,Tier 1,748.0,2,26575.6,12,0
+CUST1396,20,55421.04,2,Salaried,High School,Married,Tier 3,685.0,1,5907.31,48,1
+CUST1397,27,54459.73,9,Salaried,High School,Single,Tier 2,701.0,2,12028.94,36,1
+CUST1398,31,82397.64,13,Salaried,High School,Single,Tier 2,567.0,1,45265.09,36,1
+CUST1399,32,97964.24,11,Salaried,High School,Single,Tier 3,678.0,2,78942.2,24,0
+CUST1400,65,54905.51,11,Salaried,Bachelor,Single,Tier 3,850.0,0,21913.24,60,1
+CUST1401,55,55654.98,19,Salaried,High School,Married,Tier 3,750.0,2,25399.92,12,0
+CUST1402,33,71909.7,9,Salaried,High School,Married,Tier 1,694.0,1,56303.53,60,0
+CUST1403,64,59593.25,4,Self-Employed,Master,Married,Tier 1,643.0,0,43245.38,48,1
+CUST1404,41,85945.18,3,Salaried,Master,Divorced,Tier 2,646.0,0,75601.42,48,0
+CUST1405,42,18000.0,7,Salaried,High School,Single,Tier 2,499.0,0,15759.63,48,0
+CUST1406,38,46812.49,14,Salaried,High School,Single,Tier 2,702.0,1,39422.49,60,1
+CUST1407,24,,6,Self-Employed,Bachelor,Married,Tier 3,752.0,1,17770.5,24,1
+CUST1408,62,18000.0,9,Salaried,Master,Divorced,Tier 1,546.0,3,20467.04,12,0
+CUST1409,18,,0,Salaried,Master,Married,Tier 1,624.0,1,31661.94,36,0
+CUST1410,26,44866.57,8,Salaried,High School,Single,Tier 2,582.0,1,22904.02,36,1
+CUST1411,29,60575.7,11,Self-Employed,High School,Single,Tier 1,598.0,1,6622.71,24,1
+CUST1412,31,89485.25,3,Self-Employed,Bachelor,Single,Tier 2,685.0,2,37792.11,24,1
+CUST1413,24,59608.67,2,Business,Master,Married,Tier 2,503.0,2,29367.23,36,1
+CUST1414,18,42322.1,0,Self-Employed,Master,Married,Tier 2,732.0,0,30625.41,12,1
+CUST1415,50,,18,Salaried,High School,Married,Tier 2,744.0,3,35735.43,12,0
+CUST1416,64,88081.82,10,Salaried,Bachelor,Married,Tier 2,659.0,1,81342.91,60,0
+CUST1417,23,43528.91,5,Salaried,High School,Single,Tier 2,469.0,2,29460.95,36,0
+CUST1418,32,44967.35,14,Self-Employed,Bachelor,Married,Tier 1,595.0,3,11509.99,60,1
+CUST1419,42,77288.08,12,Self-Employed,Master,Single,Tier 2,785.0,1,88469.0,60,0
+CUST1420,62,60126.21,6,,Bachelor,Married,Tier 2,444.0,0,13910.68,24,1
+CUST1421,51,79244.66,7,Business,High School,Married,Tier 1,650.0,1,83262.52,48,0
+CUST1422,54,64699.77,3,Salaried,Bachelor,Married,Tier 2,580.0,0,75275.74,48,0
+CUST1423,45,80436.6,11,Salaried,Bachelor,Single,Tier 3,748.0,2,16377.6,48,1
+CUST1424,38,42228.28,6,Salaried,Master,Married,Tier 1,623.0,0,45468.26,24,0
+CUST1425,27,64734.14,6,Business,Bachelor,Married,Tier 2,714.0,1,75810.99,24,0
+CUST1426,59,60364.82,0,Business,Master,Single,Tier 3,728.0,2,71657.02,12,0
+CUST1427,56,38250.4,17,Salaried,High School,Single,Tier 3,836.0,0,43522.68,48,0
+CUST1428,19,30603.49,1,Business,High School,Married,Tier 2,663.0,1,26927.06,60,0
+CUST1429,52,80086.48,10,Business,High School,Single,Tier 2,712.0,1,15809.37,48,1
+CUST1430,22,57279.05,4,Self-Employed,High School,Single,Tier 3,554.0,1,50622.99,48,0
+CUST1431,53,42509.83,20,Business,High School,Single,Tier 2,781.0,0,43112.9,60,0
+CUST1432,57,62884.06,11,Salaried,Bachelor,Single,Tier 1,615.0,0,47670.33,48,1
+CUST1433,24,89816.41,6,Self-Employed,High School,Married,Tier 1,632.0,1,54709.04,12,0
+CUST1434,38,18000.0,9,Salaried,High School,Married,Tier 3,678.0,1,13344.68,60,0
+CUST1435,23,32073.95,5,Self-Employed,High School,Single,Tier 2,547.0,1,5385.1,36,1
+CUST1436,45,44696.5,11,Salaried,High School,Married,Tier 1,699.0,0,38193.23,12,0
+CUST1437,62,97145.94,15,,Master,Single,Tier 1,762.0,1,31547.09,36,1
+CUST1438,21,,3,Business,Master,Single,Tier 3,705.0,1,63943.31,60,0
+CUST1439,37,81880.98,11,Salaried,High School,Single,Tier 2,545.0,0,66341.26,24,0
+CUST1440,64,39916.46,1,Business,Bachelor,Married,Tier 3,669.0,1,22397.07,36,1
+CUST1441,32,,14,Salaried,Bachelor,Divorced,Tier 2,743.0,0,38084.45,24,1
+CUST1442,24,74851.9,6,Salaried,Master,Married,Tier 3,520.0,1,31932.55,12,1
+CUST1443,41,66282.04,4,Salaried,Bachelor,Single,Tier 3,589.0,2,58383.76,24,0
+CUST1444,42,77072.25,6,Self-Employed,High School,Single,Tier 1,755.0,1,78490.56,48,0
+CUST1445,49,60871.24,21,Salaried,Bachelor,Single,Tier 2,703.0,1,35245.18,60,1
+CUST1446,33,71119.16,7,Salaried,Master,Married,Tier 1,715.0,0,21988.33,24,1
+CUST1447,63,68478.62,17,Self-Employed,Bachelor,Single,Tier 3,838.0,0,21956.55,36,1
+CUST1448,43,82110.88,17,Salaried,Bachelor,Divorced,Tier 1,720.0,0,56081.51,24,1
+CUST1449,31,82754.18,13,Salaried,High School,Married,Tier 2,736.0,2,82720.65,12,0
+CUST1450,64,29362.82,0,Business,Bachelor,Married,Tier 3,850.0,2,32920.99,36,0
+CUST1451,62,18000.0,10,Self-Employed,Master,Married,Tier 1,662.0,0,10176.04,48,1
+CUST1452,41,87038.4,12,Self-Employed,Bachelor,Single,Tier 3,612.0,0,85842.62,48,0
+CUST1453,19,91129.95,1,Self-Employed,Bachelor,Married,Tier 1,716.0,0,47430.22,36,1
+CUST1454,46,42546.29,4,Business,Bachelor,Single,Tier 2,717.0,1,39582.91,36,0
+CUST1455,44,24083.62,6,Salaried,Bachelor,Married,Tier 2,635.0,1,16461.98,24,0
+CUST1456,25,67178.77,3,Salaried,Bachelor,Married,Tier 2,592.0,1,43502.23,24,1
+CUST1457,48,85478.44,16,Salaried,Bachelor,Single,Tier 2,,2,76718.12,60,0
+CUST1458,58,104547.08,21,Salaried,Master,Married,Tier 3,708.0,0,45597.1,48,1
+CUST1459,23,76358.55,3,Self-Employed,Bachelor,Single,Tier 1,618.0,1,66137.77,60,0
+CUST1460,52,56822.23,5,Self-Employed,Bachelor,Single,Tier 2,758.0,1,65181.27,60,0
+CUST1461,24,45351.13,6,Salaried,Bachelor,Married,Tier 3,671.0,0,16145.08,48,1
+CUST1462,53,65251.93,19,Salaried,High School,Married,Tier 3,659.0,2,13024.01,60,1
+CUST1463,38,58416.18,9,Self-Employed,High School,Married,Tier 1,,0,51689.52,36,1
+CUST1464,18,42668.51,0,Business,High School,Married,Tier 3,570.0,1,19852.59,12,1
+CUST1465,64,110072.62,7,Salaried,Bachelor,Married,Tier 1,710.0,1,20551.06,12,1
+CUST1466,25,104273.7,7,Salaried,High School,Single,Tier 2,843.0,2,60541.6,24,1
+CUST1467,46,89993.07,8,Salaried,Bachelor,Single,Tier 2,720.0,1,92085.87,24,0
+CUST1468,26,44741.29,3,Salaried,Bachelor,Divorced,Tier 3,648.0,0,6685.27,36,1
+CUST1469,62,83810.43,18,Salaried,High School,Single,Tier 1,637.0,2,42746.48,48,0
+CUST1470,53,79071.78,9,Salaried,Bachelor,Married,Tier 1,645.0,2,63634.4,48,0
+CUST1471,56,74736.0,5,Self-Employed,Master,Single,Tier 3,658.0,1,47377.46,36,0
+CUST1472,38,92492.64,16,Salaried,Bachelor,Single,Tier 1,648.0,2,84887.68,24,0
+CUST1473,40,78978.17,16,Salaried,High School,Married,Tier 2,758.0,0,30743.8,48,1
+CUST1474,48,81280.31,3,,Bachelor,Married,Tier 2,533.0,1,88500.52,36,0
+CUST1475,55,79011.94,1,Business,Bachelor,Married,Tier 2,753.0,2,58041.04,12,0
+CUST1476,58,72497.41,0,Salaried,Bachelor,Married,Tier 1,648.0,0,4162.42,36,1
+CUST1477,18,25760.56,0,Salaried,High School,Single,Tier 1,712.0,1,31401.52,36,0
+CUST1478,49,66839.66,13,Salaried,Bachelor,Married,Tier 3,584.0,3,51138.2,36,0
+CUST1479,23,52763.78,5,Self-Employed,Bachelor,Single,Tier 2,793.0,2,25445.17,48,0
+CUST1480,31,36843.5,13,Business,High School,Married,Tier 1,786.0,2,13383.58,48,1
+CUST1481,57,101999.97,8,Salaried,Bachelor,Single,Tier 1,762.0,1,82244.42,48,0
+CUST1482,30,103037.9,12,Salaried,High School,Married,Tier 1,551.0,3,29389.89,24,0
+CUST1483,56,94902.85,15,Salaried,Bachelor,Single,Tier 3,750.0,0,51850.75,48,1
+CUST1484,40,70614.7,8,Self-Employed,Master,Married,Tier 1,714.0,1,27904.69,48,1
+CUST1485,29,94713.75,11,Business,High School,Married,Tier 1,544.0,1,47303.59,24,1
+CUST1486,34,65265.17,16,Salaried,Bachelor,Married,Tier 2,678.0,2,36889.92,48,1
+CUST1487,43,69461.54,17,Salaried,Bachelor,Single,Tier 1,711.0,2,47933.67,36,0
+CUST1488,54,40943.63,21,Self-Employed,High School,Divorced,Tier 1,727.0,2,4351.09,36,1
+CUST1489,47,73733.81,8,Self-Employed,Master,Single,Tier 3,695.0,1,16590.16,24,1
+CUST1490,62,66328.49,2,Salaried,Bachelor,Single,Tier 2,705.0,1,64573.95,36,0
+CUST1491,59,36341.65,10,Salaried,,Single,Tier 1,805.0,1,22833.25,24,0
+CUST1492,54,63873.66,16,Salaried,Master,Single,Tier 2,784.0,1,59417.94,24,0
+CUST1493,46,63245.95,17,Self-Employed,Bachelor,Married,Tier 1,436.0,0,17296.4,24,1
+CUST1494,31,104546.35,8,Self-Employed,Bachelor,Single,Tier 1,653.0,1,16537.78,60,1
+CUST1495,37,84672.69,6,Self-Employed,High School,Single,Tier 2,666.0,2,35342.36,36,0
+CUST1496,23,65251.8,5,Self-Employed,High School,Married,Tier 2,531.0,1,32377.99,36,0
+CUST1497,35,70473.32,17,Salaried,Bachelor,Married,Tier 2,688.0,2,30207.55,36,0
+CUST1498,62,65972.67,1,Salaried,High School,Married,Tier 3,786.0,1,69544.97,60,0
+CUST1499,38,60535.89,7,Salaried,High School,Married,Tier 1,588.0,1,40415.88,36,0
+CUST1500,23,41186.6,5,Business,Bachelor,Single,Tier 3,709.0,0,19994.96,60,1
+CUST1501,49,,17,Self-Employed,High School,Married,Tier 2,602.0,1,50803.39,36,1
+CUST1502,64,48585.84,10,Salaried,High School,Single,Tier 1,623.0,1,7686.82,24,1
+CUST1503,59,37493.06,1,Salaried,High School,Single,Tier 3,806.0,0,26350.85,36,1
+CUST1504,31,76246.88,5,Self-Employed,Bachelor,Single,Tier 1,634.0,0,39636.25,36,1
+CUST1505,39,73607.82,0,Self-Employed,Bachelor,Married,Tier 2,719.0,1,47460.66,48,1
+CUST1506,43,25692.43,10,Self-Employed,Master,Single,Tier 2,521.0,1,6880.69,60,1
+CUST1507,29,62300.94,11,Salaried,High School,Married,Tier 1,838.0,1,65548.21,36,0
+CUST1508,30,86905.43,12,Business,High School,Single,Tier 3,731.0,0,93006.75,60,0
+CUST1509,29,88302.92,11,Self-Employed,Bachelor,Married,Tier 1,664.0,1,19482.81,36,1
+CUST1510,65,87568.41,16,Self-Employed,Bachelor,Married,Tier 3,729.0,1,57330.62,36,1
+CUST1511,53,65856.09,19,Self-Employed,Bachelor,Single,Tier 1,560.0,1,72777.62,36,0
+CUST1512,58,46409.0,6,Business,Master,Married,Tier 1,781.0,1,22806.88,12,1
+CUST1513,57,,20,Business,Bachelor,Married,Tier 2,652.0,0,41958.75,48,0
+CUST1514,64,72581.31,5,Self-Employed,Bachelor,Married,Tier 3,663.0,2,43232.19,24,0
+CUST1515,23,73344.16,5,Salaried,Master,Single,Tier 1,638.0,0,69983.93,36,1
+CUST1516,60,93321.28,14,Salaried,High School,Married,Tier 3,,1,109634.58,36,0
+CUST1517,21,89199.55,3,Self-Employed,Master,Single,Tier 1,739.0,0,18976.56,12,1
+CUST1518,40,62090.97,5,Self-Employed,Bachelor,Single,Tier 2,702.0,1,22162.47,12,1
+CUST1519,46,37627.47,2,Salaried,Bachelor,Single,Tier 2,735.0,0,32464.83,48,0
+CUST1520,35,57979.65,0,Salaried,Master,Married,Tier 1,679.0,2,12973.18,12,1
+CUST1521,25,69779.09,7,Business,Bachelor,Single,Tier 3,724.0,1,42638.51,36,0
+CUST1522,27,60554.17,9,Business,Bachelor,Married,Tier 2,644.0,1,65284.14,36,0
+CUST1523,57,52286.33,4,Business,High School,Single,Tier 2,850.0,0,10082.1,24,1
+CUST1524,33,,9,Salaried,Bachelor,Married,Tier 2,547.0,0,49171.2,24,1
+CUST1525,32,53912.93,14,Self-Employed,Bachelor,Single,Tier 2,787.0,1,44962.97,48,0
+CUST1526,62,51182.55,16,Self-Employed,High School,Married,Tier 2,796.0,1,16476.64,60,1
+CUST1527,24,71851.96,0,Salaried,Bachelor,Married,Tier 3,608.0,1,42153.05,24,1
+CUST1528,61,56156.16,11,Salaried,Bachelor,Single,Tier 2,850.0,3,66390.77,60,0
+CUST1529,62,70370.3,3,Business,Bachelor,Single,Tier 2,765.0,1,32985.77,36,1
+CUST1530,46,71010.49,5,Salaried,High School,Married,Tier 2,763.0,3,7807.28,48,1
+CUST1531,25,39932.56,5,Self-Employed,Bachelor,Divorced,Tier 2,682.0,0,13718.03,48,1
+CUST1532,25,54412.7,7,Self-Employed,High School,Divorced,Tier 2,662.0,2,52811.59,48,0
+CUST1533,31,96631.09,4,Self-Employed,High School,Single,Tier 2,662.0,1,36150.26,48,1
+CUST1534,45,39434.25,5,Salaried,Bachelor,Married,Tier 2,713.0,1,11800.98,36,1
+CUST1535,25,18433.6,4,Self-Employed,High School,Single,Tier 3,,3,3000.0,36,1
+CUST1536,39,24039.41,7,Salaried,High School,Single,Tier 3,695.0,1,13228.14,36,1
+CUST1537,23,65640.42,5,Self-Employed,Bachelor,Married,Tier 3,603.0,2,74358.6,24,0
+CUST1538,43,,8,Salaried,High School,Married,Tier 3,750.0,1,35802.06,48,1
+CUST1539,19,62412.56,1,Self-Employed,Master,Married,Tier 2,758.0,0,78544.0,12,0
+CUST1540,52,91712.18,11,Self-Employed,Master,Married,Tier 2,736.0,1,31516.39,36,1
+CUST1541,20,18000.0,2,Salaried,Bachelor,Single,Tier 1,743.0,1,6546.08,24,1
+CUST1542,27,73710.55,0,Salaried,Master,Married,Tier 2,657.0,2,82006.74,24,0
+CUST1543,26,99351.64,8,Self-Employed,Master,Single,Tier 1,601.0,2,58690.84,48,0
+CUST1544,57,40188.82,20,Salaried,High School,Single,Tier 1,606.0,0,12834.81,48,1
+CUST1545,20,56644.26,2,Salaried,Bachelor,Single,Tier 3,541.0,0,53445.58,36,0
+CUST1546,38,48436.38,12,Salaried,High School,Divorced,Tier 3,700.0,0,34677.56,24,1
+CUST1547,46,45324.39,15,Business,Bachelor,Married,Tier 2,673.0,1,39914.05,36,0
+CUST1548,42,57822.24,9,Salaried,Bachelor,Single,Tier 1,643.0,0,56597.51,36,0
+CUST1549,50,96404.68,8,Salaried,High School,Married,Tier 2,429.0,1,31242.63,48,1
+CUST1550,56,105422.51,7,Business,High School,Divorced,Tier 2,574.0,1,46630.16,36,1
+CUST1551,36,57609.34,3,Salaried,Master,Married,Tier 3,775.0,2,3438.12,36,1
+CUST1552,57,106911.32,18,Salaried,High School,Married,Tier 3,624.0,0,55444.2,36,1
+CUST1553,33,65782.68,7,Salaried,High School,Single,Tier 1,711.0,1,22414.84,60,1
+CUST1554,65,103581.2,6,Salaried,High School,Married,Tier 1,562.0,0,90435.54,48,0
+CUST1555,42,62947.43,21,,Bachelor,Married,Tier 1,802.0,2,28737.12,36,0
+CUST1556,53,67883.27,11,Self-Employed,Master,Married,Tier 1,668.0,0,51396.1,36,1
+CUST1557,60,73040.44,13,Salaried,Bachelor,Married,Tier 2,705.0,0,27740.54,12,1
+CUST1558,56,134934.78,5,Self-Employed,Bachelor,Married,Tier 1,850.0,0,70424.94,60,1
+CUST1559,58,83728.28,6,Salaried,High School,Single,Tier 1,809.0,2,36211.95,36,1
+CUST1560,43,49440.18,16,Salaried,High School,Married,Tier 1,654.0,0,45201.03,24,0
+CUST1561,20,86317.95,2,Salaried,Bachelor,Single,Tier 1,630.0,1,50587.07,60,1
+CUST1562,41,57039.68,3,Salaried,Master,Single,Tier 2,652.0,2,21348.12,48,1
+CUST1563,26,54225.5,8,Self-Employed,Bachelor,Married,Tier 1,723.0,2,45358.16,12,0
+CUST1564,60,84989.23,8,Salaried,,Married,Tier 3,671.0,0,69056.96,12,0
+CUST1565,29,65683.88,11,Salaried,Bachelor,Married,Tier 1,646.0,0,22100.61,12,1
+CUST1566,28,71128.67,7,Salaried,Bachelor,Married,Tier 1,805.0,1,82972.96,36,0
+CUST1567,29,65307.67,11,Self-Employed,Bachelor,Married,Tier 1,670.0,0,27459.51,12,1
+CUST1568,48,72404.83,17,Salaried,Bachelor,Married,Tier 2,850.0,1,15580.34,60,1
+CUST1569,45,74349.25,19,Self-Employed,Bachelor,Married,Tier 1,688.0,1,62835.62,60,0
+CUST1570,63,22386.73,4,Salaried,Bachelor,Single,Tier 2,832.0,1,3000.0,36,1
+CUST1571,37,79664.6,14,Salaried,Master,Married,Tier 1,710.0,0,16712.46,48,1
+CUST1572,31,43395.57,13,Self-Employed,Bachelor,Single,Tier 3,762.0,1,46315.71,36,0
+CUST1573,20,33269.42,2,Salaried,High School,Single,Tier 1,,0,3335.28,12,1
+CUST1574,18,63714.95,0,Salaried,High School,Single,Tier 2,607.0,1,58255.99,48,0
+CUST1575,35,66847.58,4,Business,Bachelor,Married,Tier 3,719.0,0,65424.2,24,0
+CUST1576,62,49742.86,4,Salaried,Bachelor,Married,Tier 1,764.0,3,38000.68,24,0
+CUST1577,43,83282.7,2,Salaried,Bachelor,Divorced,Tier 1,683.0,1,62041.25,36,0
+CUST1578,60,35472.15,16,Salaried,Bachelor,Divorced,Tier 3,571.0,0,28108.07,12,0
+CUST1579,22,56047.24,4,Salaried,High School,Married,Tier 1,564.0,0,64417.73,36,0
+CUST1580,22,52132.77,4,Self-Employed,Bachelor,Single,Tier 1,559.0,0,17676.82,48,1
+CUST1581,58,63975.08,13,Salaried,Bachelor,Married,Tier 2,530.0,0,14593.5,48,1
+CUST1582,23,71135.01,5,Business,Bachelor,Married,Tier 1,689.0,0,43322.99,48,0
+CUST1583,20,42826.36,2,Self-Employed,Bachelor,Married,Tier 3,776.0,2,18117.53,60,1
+CUST1584,37,80934.22,10,Business,High School,Single,Tier 2,679.0,1,22861.45,36,1
+CUST1585,62,66386.05,12,Self-Employed,Bachelor,Single,Tier 2,488.0,0,49456.3,60,0
+CUST1586,51,23377.18,6,Business,Bachelor,Divorced,Tier 1,664.0,1,3000.0,36,1
+CUST1587,22,21910.99,1,Self-Employed,Master,Single,Tier 2,666.0,0,20696.84,24,0
+CUST1588,58,64728.98,12,Salaried,Bachelor,Single,Tier 2,850.0,3,25839.38,60,0
+CUST1589,58,60138.72,18,Salaried,,Married,Tier 1,556.0,0,6690.75,36,1
+CUST1590,56,62724.76,1,Self-Employed,Bachelor,Single,Tier 3,647.0,2,20696.58,12,0
+CUST1591,61,64384.39,4,Salaried,Bachelor,Single,Tier 2,825.0,2,34404.37,24,0
+CUST1592,29,69962.32,5,Self-Employed,Bachelor,Divorced,Tier 3,718.0,0,25448.64,36,1
+CUST1593,65,85848.29,17,Salaried,Master,Married,Tier 1,728.0,0,18949.48,36,1
+CUST1594,33,40555.69,11,Self-Employed,High School,Married,Tier 1,690.0,1,15168.99,36,1
+CUST1595,56,39216.62,11,Salaried,High School,Single,Tier 2,708.0,2,15629.1,60,1
+CUST1596,45,40946.88,14,Business,High School,Single,Tier 3,746.0,1,31830.66,36,0
+CUST1597,55,71356.17,6,Salaried,,Married,Tier 2,611.0,1,40373.93,36,0
+CUST1598,48,92388.84,15,Salaried,Master,Married,Tier 1,755.0,2,31198.93,36,1
+CUST1599,48,55510.53,0,Self-Employed,Bachelor,Single,Tier 3,563.0,2,28797.62,60,0
+CUST1000,22,58572.23,4,Salaried,Bachelor,Married,Tier 3,467.0,2,19840.0,24,1
+CUST1001,55,62723.26,3,Salaried,Bachelor,Married,Tier 3,535.0,0,28410.78,48,1
+CUST1002,49,59456.5,4,Salaried,Bachelor,Divorced,Tier 2,609.0,0,18258.54,36,1
+CUST1003,39,68356.38,2,Salaried,High School,Single,Tier 2,633.0,2,19627.73,48,1
+CUST1004,38,97372.82,15,Salaried,Master,Married,Tier 2,645.0,1,72662.25,24,0
+CUST1005,59,18000.0,11,Self-Employed,High School,Single,Tier 1,683.0,1,20195.49,24,0
+CUST1006,22,59789.29,4,Salaried,High School,Married,Tier 1,654.0,0,12273.5,36,1
+CUST1007,51,68883.27,14,Self-Employed,Master,Married,Tier 2,769.0,2,38540.92,12,1
